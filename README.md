@@ -1,2 +1,21 @@
-# public-keys
-All of my publickeys for my various email addresses.
+# Public Keys
+
+Here are all of my publickeys for verification of signed emails.
+
+
+## `jackmmaguire@proton.me`
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEYz6zMxYJKwYBBAHaRw8BAQdAeRUZukGwIu2vDNDQa1Ln9HE5wn+EtU7s
+6wksYIuBWujNL0phY2tNTWFndWlyZUBwcm90b24ubWUgPEphY2tNTWFndWly
+ZUBwcm90b24ubWU+wowEEBYKAB0FAmM+szMECwkHCAMVCAoEFgACAQIZAQIb
+AwIeAQAhCRAf9VugKY0dERYhBFXpZ/M5SNod0JPVtB/1W6ApjR0R3soBANeM
+bsWPWbAVAkj/ZcpwY3/TH6D/MU4Qc54GC6+mW5tTAP9gHLap32LwRmNqe/y3
+wOz3eOrgPIbzH87IK3sjhAuqDs44BGM+szMSCisGAQQBl1UBBQEBB0C1YgYA
+Xd1x/Bmu/nLzNKFlv+kgvE7zi7qFi0cPD1F1EgMBCAfCeAQYFggACQUCYz6z
+MwIbDAAhCRAf9VugKY0dERYhBFXpZ/M5SNod0JPVtB/1W6ApjR0R0icA/A9V
+6Y8qZIhDZJ7Ez3qiDpqPRLxGE7pOVUf5scM79aIOAQCZaOIBx33nZi0cbibH
+8qhOt1tz3OolGK1yBnj0QwdYDg==
+=2I5q
+-----END PGP PUBLIC KEY BLOCK-----
